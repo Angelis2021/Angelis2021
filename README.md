@@ -12,7 +12,9 @@
 </div>
  <div>
    
-   ![Snake animation](https://github.com/Angelis2021/Angelis2021/blob/output/github-contribution-grid-snake.svg)
+   
+   
+   ![snake gif](https://github.com/Angelis2021/Angelis2021/blob/output/github-contribution-grid-snake.svg)
    
  <\div>
   
