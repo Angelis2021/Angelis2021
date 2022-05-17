@@ -11,7 +11,9 @@
   <img height="180em" width="1300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelis2021&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  <div>
+   
    ![Snake animation](https://github.com/Angelis2021/Angelis2021/blob/output/github-contribution-grid-snake.svg)
+   
  <\div>
   
  
