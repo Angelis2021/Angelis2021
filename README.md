@@ -2,7 +2,7 @@
 
 - 🔭 No momento sou fisioterapeuta, mas como mudar é preciso
 - 🌱 Estou estudando programação.
-- 📫 Você pode me encontrar nesse link:https://www.linkedin.com/in/marcela-de-angelis/
+- 📫 Você pode me encontrar nesse link: https://www.linkedin.com/in/marcela-de-angelis/
 - 😄 Pronomes: Ela/Dela
 - ⚡ Curiosidades sobre mim? Sou amante de café,chocolate e coca-cola
 <div align="center">
