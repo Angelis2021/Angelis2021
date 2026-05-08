@@ -1,13 +1,22 @@
-### Olá pessoa! Sou Marcela de Angelis 👋
+### Olá, sou Marcela de Angelis 👋
 
-- 🔭 No momento sou fisioterapeuta com especialização em Reabilitação Neurofuncional, em Oncologia e mestrado em Neuroengenharia... Essa último me apresentou o mundo da programação e como mudar é preciso, cá estou...
-- 🌱 Estudando programação.
-- 📫 Você pode me encontrar nesse link: https://www.linkedin.com/in/marcela-de-angelis/
-- 😄 Pronomes: Ela/Dela
-- ⚡ Curiosidades sobre mim? Sou amante dos 3Cs (Café, Chocolate e Coca-cola)
-- 
-<div align="center">
-  <a href="https://github.com/Angelis2021">
-  <img height="180em" width="800" src="https://github-readme-stats.vercel.app/api?username=Angelis2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="1300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelis2021&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+🔬 **Microbioma Intestinal & Parkinson** | Consenso multi-coorte e multi-análises | Neuroengenharia ISD
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)](https://r-project.org) 
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
+[![QIIME2](https://img.shields.io/badge/QIIME2-5CB3FF?style=for-the-badge&logo=qiime2&logoColor=white)](https://qiime2.org)
+
+
+Sou fisioterapeuta com especialização em Reabilitação Neurofuncional e também em Oncologia. Possuo mestrado em Neuroengenharia pelo ISD (IINELS) onde tive a oportunidade de estudar interfaces homem-máquina e fui apresentada ao mundo da programação. Isso me levou ao doutorado em Bioinformática pela UFRN, onde estudo microbiomas intestinais na doença de Parkinson por meio de ferramentas de bioinformática e aprendizado de máquina. Nesse cenário, tem me permitido entender melhor a relação entre o eixo cérebro-intestino.
+
+
+**Pipeline Técnico:**
+**QIIME2 (Linux) → DADA2 (R) → phyloseq(R)→ Análises de abundância diferencial → Comitê de classificadores interpretável (Python) → PICRUSt2 **
+**🎯 Objetivo: Identificação de potenciais biomarcadores taxonômicos e funcionais na Doença de Parkinson.**
+
+
+ 📫 Você pode me encontrar em:
+📄 [Currículo Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4406995P6)
+🔬 [ResearchGate](https://www.researchgate.net/profile/Marcela-De-Angelis-Vigas-Pereira)
+
+⚡ Curiosidades sobre mim? Sou amante dos 3Cs (Café, Chocolate e Coca-cola)
