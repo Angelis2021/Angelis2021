@@ -18,6 +18,7 @@ Sou fisioterapeuta com especialização em Reabilitação Neurofuncional e tamb�
 
 
  📫 Você pode me encontrar em:
+ 
 📄 [Currículo Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4406995P6)
 
 📄 [Linkedin](www.linkedin.com/in/marcela-de-angelis).
