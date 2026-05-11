@@ -1,6 +1,6 @@
 ### Olá, sou Marcela de Angelis 👋
 
-🔬 **Microbioma Intestinal & Parkinson | Bioinformática | Consenso multi-coorte e multi-análises | Neuroengenharia ISD | Fisioterapia**
+🔬 **Microbioma Intestinal & Parkinson | Bioinformática | Consenso multi-coorte e multi-análises | Neuroengenharia | Fisioterapia**
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)](https://r-project.org) 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
